@@ -1,0 +1,25 @@
+.a
+{height: 165px;
+background-color: blue;
+margin: auto;}
+.b
+{color: white;
+font-size: 100px;
+font-family: inherit;
+text-align: center;
+}
+.c
+{background:url(http://images.all-free-download.com/images/graphiclarge/blue_abstract_background_310971.jpg);
+background-size: cover;
+background-position: center;
+background-attachment: fixed;}
+.inline-block
+li { display: inline-block;}
+.d
+{height: 45px;
+  background-color: grey;
+  margin: auto;}
+  .d
+  {text-align: center;
+  font-size: 25px;
+  font-family: inherit;;}
